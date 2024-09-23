@@ -1,0 +1,19 @@
+[
+    {
+      "id": "prod_1",
+      "name": "Product 1",
+      "description": "This is the description for Product 1.",
+      "price": 2000, 
+      "priceId": "price_1Q1FIAEXdZPvnKFL2wEm3tGw", 
+      "image": "/images/product1.jpg"
+    },
+    {
+      "id": "prod_2",
+      "name": "Product 2",
+      "description": "just a cow",
+      "price": 50,
+      "priceId": "price_1Q1FZvEXdZPvnKFLQWFurxo6",
+      "image": "/images/product2.png"
+    }
+  ]
+  
